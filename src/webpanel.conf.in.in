@@ -1,0 +1,8 @@
+[Addon]
+Name=WebPanel
+Type=SharedLibrary
+Library=libwebpanel
+Category=UI
+Version=@PROJECT_VERSION@
+Configurable=True
+OnDemand=False
